@@ -1,0 +1,2 @@
+E:\Work Sample\C#\Masjid Management\obj\Debug\Masjid_Management.csproj.AssemblyReference.cache
+E:\Work Sample\C#\Masjid Management\obj\Debug\Masjid_Management.csproj.CoreCompileInputs.cache

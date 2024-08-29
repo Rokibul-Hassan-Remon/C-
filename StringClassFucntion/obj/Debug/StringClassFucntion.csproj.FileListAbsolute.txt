@@ -1,0 +1,2 @@
+E:\Work Sample\C#\StringClassFucntion\obj\Debug\StringClassFucntion.csproj.AssemblyReference.cache
+E:\Work Sample\C#\StringClassFucntion\obj\Debug\StringClassFucntion.csproj.CoreCompileInputs.cache
